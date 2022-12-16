@@ -1,0 +1,13 @@
+BugReport:
+
+ID: 1,
+Project: Course,
+Title: Bug,
+Environment: Win10,
+STR: 1,2,3,
+Severity: Blocker,
+Priority: High,
+Status: New,
+Author: MD,
+ER: Passed,
+AR: Failed.
